@@ -14,4 +14,5 @@ The Internet Movie Database (IMDb) is a website that serves as an online databas
 Analyze the data available on the IMDb website for movies released in the cinema between 2000 and 2017.
 
 # Dataset
-The CSV file is "dataframeMovies.csv" and the IPython Notebook is "DataScienceMovies.ipynb".
+The CSV file is "dataframeMovies.csv" and the IPython Notebook is [DataScienceMovies.ipynb](http://nbviewer.jupyter.org/github/nicolaschen1/DataScienceMovies/blob/master/DataScienceMovies.ipynb)
+
